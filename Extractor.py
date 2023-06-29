@@ -63,13 +63,6 @@ class Extractor :
             return False
     
 
-    # Processing Segments from Each paragraph and extracted them
-    def chinese_segment_process(self,chinese_sentence ):
-        # Split sentences as segments
-        if self.is_chinese(chinese_sentence):
-            append(self.sentence)
-        return chinese_sentences
-    
     def extract_chinese_second(self):
         print('--> Generating paragraph...')
         result = []
@@ -130,6 +123,13 @@ class Extractor :
                 pbar.update(1)
         return result
     
+    # Calculate cosine similarity between two sentences (query,document)
+    def similarity_score(self, query, document):
+        query_embedding = self.model.encode(query, convert_to_tensor=True)
+        document_embedding = self.model.encode(document, convert_to_tensor=True)
+        cosine_similarity = util.pytorch_cos_sim(query_embedding, document_embedding)
+        return cosine_similarity
+
     ################################################################
 
     def generate_paragraph(self):
