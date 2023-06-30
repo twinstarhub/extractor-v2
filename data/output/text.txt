@@ -24,6 +24,8 @@ Fixed-Income
 
 >  American Income Portfolio
 
+>  European Income Portfolio
+
 AB FCP I (the “Fund”) is a mutual investment fund (fonds commun de placement) organized under the laws of the Grand Duchy of Luxembourg.  Purchase orders can be accepted only on the basis of the Prospectus of the Fund dated 31 March 2023  (the  “Prospectus”)  and  this  statement  of  additional  information  for  Hong  Kong  investors  (this  “Hong  Kong Supplement”), which together form the offering documents for the Fund for the purpose of marketing Shares of the Fund in the Hong Kong Special Administrative Region of the People’s Republic of China (“Hong Kong”) (the “Hong Kong Offering Document”).
 
 If  you  are  in  any  doubt  about  the  contents  of  the  Prospectus,  this  Hong  Kong  Supplement  or  the  financial statements accompanying this document you should seek independent professional advice.
@@ -128,8 +130,6 @@ Class B Shares* Class C Shares Class I Shares
 
 Class W Shares
 
-10. European Income Portfolio
-
 Class A Shares
 
 Class B Shares* Class C Shares Class I Shares
@@ -174,6 +174,8 @@ Investment Manager’s Delegate(s)
 
 Emerging Markets Growth Portfolio
 
+AllianceBernstein Hong Kong Limited and
+
 Asia Ex-Japan Equity Portfolio
 
 AllianceBernstein Australia Limited
@@ -188,11 +190,11 @@ Global Equity Blend Portfolio
 
 Short Duration Bond Portfolio
 
-AllianceBernstein Limited and
-
 AllianceBernstein  (Japan)  Ltd.  whose  principal  office  is  situated  at  Hibiya  Park  Front  Building  14F,  2-1-6  Uchisaiwaicho, Chiyoda-ku, 14th Floor, Tokyo 100-0011, Japan is a company established in Japan on 28 October 1996 and is registered with the Financial Services Agency as a financial instruments business operator to provide (i) Type I financial instruments business; (ii)  Type  II  financial  instruments  business;  (iii)  investment  advisory  and  agency  business;  (iv)  investment  management business; and (v) securities – related business.
 
 AllianceBernstein (Singapore) Ltd. whose principal office is situated at One Raffles Quay, #27-11 South Tower, Singapore 048583 is a company established in Singapore on 17 May 1997. It is regulated by the Monetary Authority of Singapore and is licensed with a Capital Markets Service Licence under the Securities and Futures Act to conduct dealing in capital markets products and fund management regulated activities.
+
+AllianceBernstein Hong Kong Limited
 
 AllianceBernstein Hong Kong Limited is a limited liability company incorporated in Hong Kong and is currently licensed by the SFC to conduct Type 1 (dealing in securities), Type 2 (dealing in futures contracts), Type 4 (advising on securities), Type 5 (advising on futures contracts) and Type 9 (asset management) regulated activities under the SFO with CE number ADX555. AllianceBernstein  Hong  Kong  Limited  is  part  of  AB  Group  and  AB  Group  provides  research,  diversified  investment management and related services globally to a broad range of clients including institutional clients, retail clients and private clients.
 
@@ -434,6 +436,8 @@ Purchase price =
 
 Shares allotted =
 
+Investment amount
+
 Purchase price
 
 The above examples are for illustrative purposes only and are not a forecast or indication of any expectation of performance.
@@ -475,8 +479,6 @@ In respect of any exchange instruction involving a class of Shares possessing a 
 acquired in an exchange, will be based on the date of purchase of the original Shares; furthermore, the amount of any such contingent deferred sales charge will be based upon the rates relating to the original Shares.  Such restrictions may be waived under certain circumstances in the sole discretion of the Management Company, on behalf of the Fund.
 
 Investors interested in exchanging Shares should contact their financial adviser or the Hong Kong Representative for more information about the exchange option. Neither the Fund nor the Management Company currently charges any administrative or other fees in connection with exchanges. However, shareholders who hold their shares through accounts with a dealer should contact their dealer to determine if it charges any fees in connection with exchanges.
-
-Fees and Expenses
 
 The Fund is subject to the payment of fees and expenses as set forth in the Prospectus under “Summary Information—Share Class Fees and Charges” and “Other Portfolio Information—Management Company, Administrator, Depositary and Transfer Agent Fees” in the portion of Section I relating to each Portfolio and under “Additional Information—Fees and Expenses” in Section II.
 
@@ -528,6 +530,8 @@ For  as  long  as  the  Fund  maintains  its  authorization  with  the  SFC  und
 
 the Articles of Association of the Management Company;
 
+the Investment Management Agreement;
+
 the Depositary Agreement;
 
 the Management Regulations of the Fund;
@@ -567,8 +571,6 @@ Fixed-Income
 >  Global High Yield Portfolio
 
 Asia Ex-Japan Equity Portfolio
-
->  American Income Portfolio
 
 >  European Income Portfolio
 
@@ -858,9 +860,9 @@ The Portfolio’s investments in other pooled vehicles sponsored and/or managed 
 
 Summary Information Portfolio Features Currency of the Portfolio
 
-Class Names
+Net Asset Value Publication
 
-Each Business Day
+Class Names
 
 Available at www.alliancebernstein.com
 
@@ -1150,6 +1152,8 @@ Expected Range  Maximum
 
 Type of Transactions
 
+TRS
+
 Repurchase agreements and reverse repurchase agreements
 
 Securities lending transactions
@@ -1177,8 +1181,6 @@ AB FCP I—Global Equity Blend Portfolio
 Summary Information
 
 Portfolio Features Currency of the Portfolio
-
-Net Asset Value Publication
 
 Cut-Off Times
 
@@ -1223,8 +1225,6 @@ Class C Shares
 Class I Shares9 Class S1 Shares
 
 Up to 5.00%
-
-Up to 1.50% None
 
 HKD-Denominated Share Classes Class S Shares7
 
@@ -1522,8 +1522,6 @@ Offered Currencies
 
 Class W Shares EUR-Denominated Share Classes Class A Shares Class C Shares Class I Shares8 Class S1 Shares
 
-Minimum Initial Investment* $2,000
-
 GBP-Denominated Share Classes Class S1 Shares
 
 HKD-Denominated Share Classes Class A Shares
@@ -1625,8 +1623,6 @@ General.  The Investment Manager may employ financial derivative instruments and
 In accordance with the transparency requirements of the SFT Regulation the chart below reflects, where applicable, the expected and maximum level of the Portfolio’s net assets that will be subject to securities financing transactions (i.e. securities lending transactions as well as repurchase agreements and reverse repurchase agreements) (“SFTs”) and total return swaps and/or other financial derivative instruments with similar characteristics (“TRS”); being specified that in certain circumstances this proportion may be higher.
 
 Type of Transactions
-
-TRS
 
 Repurchase agreements and reverse repurchase agreements
 
@@ -1870,9 +1866,9 @@ EUR-Denominated Share Classes Class A and AD Shares Class C Shares Class I Share
 
 HKD-Denominated Share Classes Class A and AD Shares Class S Shares
 
-Hedged Currencies
+HK$5,000 None
 
-Minimum Initial Investment*
+Hedged Currencies
 
 CAD
 
@@ -1935,8 +1931,6 @@ Organizational Expenses The Portfolio has no unamortized organizational expenses
 Historical Performance Information on the historical performance of the Portfolio, once available, may be found at www.alliancebernstein.com.
 
 History The Portfolio was established as a portfolio of the Fund on 30 November 2009.
-
-AB FCP I—Japan Strategic Value Portfolio
 
 Investment Objective and Policies
 
@@ -2006,6 +2000,8 @@ Distributions*
 
 For class A, C, I, S, S1 and 2 shares None
 
+Net Asset Value Publication
+
 Investors should contact the Management Company for current Net Asset Value
 
 Class Name
@@ -2057,8 +2053,6 @@ Up to 5.00%
 Class C Shares
 
 Class I Shares7 Class S1 Shares
-
-Up to 1.50% None
 
 PLN-Denominated Share Classes
 
@@ -2164,6 +2158,8 @@ HKD Hedged Share Classes Class I HKD H Shares7
 
 Up to 1.50%
 
+AB FCP I—Japan Strategic Value Portfolio
+
 0—1 year held=1.0% thereafter 0%
 
 0—1 year held=1.0% thereafter 0%
@@ -2230,6 +2226,8 @@ HKD Hedged Share Classes Class I HKD H Shares
 
 CZK
 
+AB FCP I—Japan Strategic Value Portfolio
+
 CZK 50,000
 
 CZK 20,000
@@ -2253,6 +2251,8 @@ For a chart summarizing the principal risks of the Portfolio and a more detailed
 Profile of the Typical Investor The Portfolio will suit higher risk-tolerant investors seeking the medium to long term rewards of equity investment. Investors are encouraged to consult their independent financial advisors regarding the suitability of Shares of the Portfolio for their investment needs.
 
 Distributions For class A, C, I, S, S1 and 2 shares (and corresponding H shares), the Management Company currently does not intend to pay distributions with respect to the Shares. Therefore, any
+
+AB FCP I—Japan Strategic Value Portfolio
 
 net income and net realized profits attributable to the Shares will be reflected in the respective Net Asset Value of the Shares.
 
@@ -2296,6 +2296,8 @@ In accordance with the transparency requirements of the SFT Regulation the chart
 
 Type of Transactions
 
+TRS
+
 Repurchase agreements and reverse repurchase agreements
 
 Securities lending transactions
@@ -2335,6 +2337,8 @@ The Portfolio is of the category that promotes environmental and social characte
 Summary Information
 
 Portfolio Features Currency of the Portfolio
+
+Net Asset Value Publication
 
 Class Names
 
@@ -2647,6 +2651,8 @@ The Portfolio is of the category that promotes environmental and social characte
 Summary Information
 
 Portfolio Features Currency of the Portfolio
+
+Net Asset Value Publication
 
 Class Names
 
@@ -2989,6 +2995,8 @@ Financial Derivative Instruments/Efficient Portfolio Management Techniques. The 
 In accordance with the transparency requirements of the SFT Regulation the chart below reflects, where applicable, the expected and maximum level of the Portfolio’s net assets that will be subject to securities financing transactions (i.e. securities lending transactions as well as repurchase agreements and reverse repurchase agreements) (“SFTs”) and total return swaps and/or other financial derivative instruments with similar characteristics (“TRS”); being specified that in certain circumstances this proportion may be higher.
 
 Type of Transactions
+
+TRS
 
 Repurchase agreements and reverse repurchase agreements
 
@@ -3874,9 +3882,9 @@ Distribution*
 
 For class A, B, C, I, JA, J and W shares To be declared daily and payable monthly
 
-Net Asset Value Publication
-
 Class Names
+
+Each Business Day
 
 Available at www.alliancebernstein.com
 
@@ -4069,8 +4077,6 @@ Up to 5.00%
 AB FCP I—American Income Portfolio
 
 0–1 year held=1.0% thereafter 0%
-
-None None 0–1 year held=3.0% 1–2 yrs=2.0% 2–3 yrs=1.0% 3+ yrs=0%
 
 Class A2 EUR H Shares
 
@@ -4320,6 +4326,8 @@ Partial Duration Hedged Share Classes Dollar Class AT DUR PH Shares Dollar Class
 
 No longer offered No longer offered No longer offered No longer offered No longer offered
 
+No longer offered No longer offered No longer offered No longer offered None
+
 JPY-Denominated Share Classes Class IT Shares EUR-Denominated Share Classes Class AR Shares
 
 Class A and A2 Shares
@@ -4341,6 +4349,8 @@ SGD-Denominated Share Classes Class A2 Shares Class AT Shares Class I2 Shares Cl
 AUD Hedged Share Classes Class AT AUD H Shares Class AA AUD H Shares Class EA AUD H Shares Class I2 AUD H and IT AUD H Shares Class IA AUD H Shares Class L2 AUD H Shares Class LT AUD H Shares Class WT AUD H Shares
 
 EUR Hedged Share Classes Class AT EUR H Shares Class A2 EUR H Shares Class AK EUR H Shares Class AA EUR H Shares Class AR EUR H Shares Class C2 EUR H Shares Class CK EUR H Shares Class I2 EUR H Shares
+
+HK$5,000 HK$5,000 HK$5,000 None None None
 
 AB FCP I—American Income Portfolio
 
@@ -4480,8 +4490,6 @@ Expected Range  Maximum
 
 For further details concerning SFTs and TRS, please refer to “Appendix C: Additional Information relating to Financial
 
-AB FCP I—European Income Portfolio
-
 of mainland China with approved banks in the Hong Kong market (HKMA approved banks). The RMB H shares will have no requirement to remit CNH to onshore RMB (CNY).
 
 Leverage. The Investment Manager does not expect to utilize bank borrowing in implementing the Portfolio’s investment strategy.  The expected level of leverage of the Portfolio is estimated to be in the 0% to 100% range of its Net Asset Value. The expected level of leverage is calculated as the sum of the notionals of the financial derivative instruments held by the Portfolio. Pursuant to the CSSF Circular 11/512 dated 30 May 2011, this calculation methodology neither takes into account the fact that a particular financial derivative instrument increases or decreases the Portfolio’s investment risks nor permits to net financial derivative instruments with reverse positions. Shareholders should be aware that (i) a higher level of expected leverage does not automatically imply a higher level of investment risk and (ii) the expected level of leverage disclosed above is mainly generated by the use of derivatives for hedging purposes or for efficient portfolio management.  In addition, the actual leverage of the Portfolio may deviate from the above mentioned expected level of leverage.
@@ -4525,8 +4533,6 @@ For Euro-Denominated Share Classes and USD-Denominated Share Classes 4:00 P.M. U
 For Currency Hedged Share Classes (except RMB Hedged Share Classes) 6:00 P.M. Central European Time on each Business Day
 
 For RMB Hedged Share Classes 1:00 P.M. Central European Time on each Business Day
-
-AB FCP I—European Income Portfolio
 
 Distributions*  For class A, B, C, and I shares
 
@@ -4950,6 +4956,8 @@ Summary Information
 
 Portfolio Features Currency of the Portfolio
 
+Net Asset Value Publication
+
 Class Names
 
 Available at www.alliancebernstein.com
@@ -5039,6 +5047,8 @@ Up to 5.00%
 Class C and C2 Shares
 
 Class I2 Shares8 Class S1 2 Shares
+
+Up to 1.50% None
 
 HKD-Denominated Share Classes
 
@@ -5404,6 +5414,8 @@ Summary Information
 
 Portfolio Features Currency of the Portfolio
 
+Net Asset Value Publication
+
 Class Names
 
 Available at www.alliancebernstein.com
@@ -5415,6 +5427,8 @@ For USD-Denominated Share Classes, EUR- Denominated Share Classes, HKD- Denomina
 For Currency Hedged Share Classes and JPY Denominated Share Classes 6:00 P.M. Central European Time on each Business Day
 
 For RMB Hedged Share Classes 1.00 P.M. Central European Time on each Business Day
+
+AB FCP I—Mortgage Income Portfolio
 
 Distributions*  For class A, AX, BX, C, CX, I, IX, S and S1X
 
@@ -5538,6 +5552,8 @@ Up to 5.00%
 
 JPY Denominated Share Classes Class S1 Shares
 
+AB FCP I—Mortgage Income Portfolio
+
 0-1 year held=1.0% thereafter 0%
 
 0-1 year held=1.0% thereafter 0%
@@ -5602,8 +5618,6 @@ Up to 5.00% Up to 5.00%
 
 Transfer Agent are entitled to receive, out of the assets of the Portfolio, fees as described under "Other Portfolio Information— Management Company, Administrator, Depositary and Transfer Agent Fees" below.  The Portfolio also bears all of its other expenses.  See "How to Purchase Shares" and "Additional Information—Fees and Expenses" in Section II.  The Management Company has voluntarily undertaken, until the Management Company on behalf of the Fund notifies
 
-AB FCP I—Mortgage Income Portfolio
-
 Shareholders to the contrary, that if, in any fiscal year, the aggregate fees and expenses with respect to the following share classes of the Portfolio (including any management fee and all other fees and expenses set out in "Additional Information—Fees and Expenses" in Section II, including Luxembourg Taxe d'Abonnement but exclusive of certain other taxes, brokerage (if applicable) and  interest on borrowings) exceed the following percentages of the Portfolio's average Net Asset Value for the fiscal year attributable to the Portfolio's share classes (and
 
 corresponding H shares) as follows:  A (1.50%),  AX (1.25%), A2 (1.50%), A2X (1.25%), AT (1.50%), ATX (1.25%), AA (1.50%), AR (1.50%),  BX (1.70%),  C (1.95%), CX (1.70%), C2 (1.95%),  C2X (1.70%), EA (2.00%), I (0.95%), IT (0.95%), IX (0.70%), I2 (0.95%),  I2X (0.70%), N2 (2.05%), NT (2.05%), S (0.15%), S1 (0.65%),  S2 (0.15%), SA (0.15%), S1X (0.55%) and ZT (0.05%), the Fund may deduct from the payment to be made to the Management Company, or the Management Company will otherwise bear, such excess fees and expenses.
@@ -5613,6 +5627,8 @@ corresponding H shares) as follows:  A (1.50%),  AX (1.25%), A2 (1.50%), A2X (1.
 3   As a percentage of purchase price. 4   As an annual percentage of average daily Net Asset Value. With respect to certain share classes, the management fee may also include a component that is paid to distributors or other financial intermediaries and service providers.  For further details on the management fee, please refer to "Additional Information—Fees and Expenses" in Section II.  For class AX, A2X, ATX, BX, CX, C2X, IX and I2X shares, consecutive fee levels listed apply with respect to (1) the first $100,000,000 of the net assets of the Portfolio, (2) the next $100,000,000 of the net assets of the Portfolio and (3) the amount of the net assets of the Portfolio over $200,000,000.
 
 5   As an annual percentage of average daily Net Asset Value. 6   As a percentage of the lesser of the current Net Asset Value or original cost of the Shares being redeemed and based upon the
+
+AB FCP I—Mortgage Income Portfolio
 
 duration that such Shares are held.  CDSC Shares may only be purchased through a dealer authorized by the Distributor to offer such shares.  Those investors considering an investment in CDSC Shares should speak with their financial advisor for details. With respect to class C, CX, C2 and C2X shares, a dealer may elect to waive the contingent deferred sales charge in certain circumstances.
 
@@ -5633,10 +5649,6 @@ Other Share Class Features
 USD-Denominated Share Classes
 
 Offered Currencies
-
-Minimum Initial Investment*
-
-AB FCP I—Mortgage Income Portfolio
 
 Class A and A2 Shares
 
@@ -5687,6 +5699,8 @@ $2,000 $2,000 $25 million** $25 million** $25 million** No longer offered to new
 No longer offered
 
 No longer offered to new investors No longer offered to new investors No longer offered to new investors $25 million**
+
+€ 750 No longer offered € 750 None None
 
 No longer offered to new investors € 2,000
 
@@ -5758,8 +5772,6 @@ History The Portfolio was established as a portfolio of the Fund under the name 
 
 1994. It was renamed Mortgage Income Portfolio on 20 February 2014.
 
-AB FCP I—Mortgage Income Portfolio
-
 Section II:  Core Information
 
 The Fund
@@ -5817,6 +5829,8 @@ of Section I relating to a specific portfolio, the charge will be calculated in 
 A complete list of available Share Classes may be obtained from www.alliancebernstein.com or the registered office of the Management Company.
 
 Additional Share Class Information
+
+CLASS E SHARES
 
 AB FCP I
 
@@ -6522,6 +6536,8 @@ Dynamic Asset Allocation Risk Allocation Risk
 
 Smaller Capitalization Companies Risk
 
+Financial Instruments Risk
+
 OTC Derivatives Counterparties Risk
 
 Commodity-Related Risk
@@ -6576,11 +6592,17 @@ Fixed-Income
 
 AB FCP I
 
+Investment Strategy Risks Country Risk—Emerging Markets
+
 Country Risks – China
 
 Focused Portfolio Risk
 
+Allocation Risk Turnover Risk
+
 Smaller Capitalization Companies Risk Financial Instruments Risks
+
+OTC Derivatives Counterparty Risk
 
 Commodity-Related Risk
 
@@ -7408,7 +7430,7 @@ Facilities requirements for investors related to Article 92 1. a) of the UCITS D
 
 Iceland
 
-Norway
+Netherlands
 
 Where information in relation to facilities for investors related to Article 92 1. b) to f) of the UCITS Directive is made available:
 
@@ -7464,7 +7486,7 @@ CACEIS Bank, Italy Branch Piazza Cavour n°5 20121 Milan, Italy
 
 Poland
 
-ProService Finteco Sp. z o.o. Konstruktorska 12A 02-673 Warsaw, Poland
+Representative
 
 The paying agents in Italy may charge a commission in respect of each request for subscription, exchange or redemption of shares.
 
@@ -8344,6 +8366,8 @@ AB FCP I
 
 AB FCP I Directory
 
+Management Company
+
 Investment Manager
 
 AllianceBernstein L.P. 501 Commerce Street Nashville, TN 37203 U.S.A.
@@ -8357,6 +8381,8 @@ Depositary and Administrator
 Brown Brothers Harriman (Luxembourg) S.C.A. 80, route d’Esch L-1470 Luxembourg
 
 AllianceBernstein Investor Services a unit of the Management Company 2-4, rue Eugène Ruppert L-2453 Luxembourg
+
+Auditor
 
 Ernst & Young S.A. 35E, avenue John F. Kennedy L-1855 Luxembourg
 
