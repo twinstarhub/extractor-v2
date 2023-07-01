@@ -135,6 +135,7 @@ class Extractor :
     # Pairing Chinese sentence list and English sentence list
     def similarity_pairing(self,chinese_list,english_list):
         pairing_list = []
+        notpairing_list = []
         print("Chinese model encoding ...\n")
         corpus_embedding = self.model.encode(chinese_list, convert_to_tensor=True, batch_size= 64, show_progress_bar =True)
         results = []
@@ -149,20 +150,19 @@ class Extractor :
                 top_score, top_idx = torch.topk(cos_scores, k=1)
                 
                 pbar.update(1)
-                # If score is less than LIMIT_SCORE, ignore the training data
-                if round(top_score.item(), 3) < float(self.limit_score):
-                    continue
-
                 # JSON Formating of dictionary data
                 result = {
                     "en": query,  # english sentence
                     "cn": chinese_list[top_idx.item()],
                     "score": round(top_score.item(), 3)
                 }
-                pairing_list.append(result)
+                if round(top_score.item(), 3) < float(self.limit_score):
+                    notpairing_list.append(result)
+                else:
+                    pairing_list.append(result)
                 
         print("Successfully done ...\n")
-        return pairing_list
+        return pairing_list,notpairing_list
     
     ################################################################
 
@@ -173,16 +173,19 @@ class Extractor :
         print("Generating English paragraphs...")
         english_paragraphs = self.extract_paragraphs_from_pdf(self.cn_filepath_in)
         print("Pairing...")
-        pairing_result = self.similarity_pairing(chinese_paragraphs,english_paragraphs)
+        pairing_result,notpairing_list = self.similarity_pairing(chinese_paragraphs,english_paragraphs)
 
         with open(self.result_path_out, 'w', encoding="utf-8") as file:
             json.dump(pairing_result, file, ensure_ascii=False, indent=4)
+        with open(self.result_path_out+"_notparied", 'w', encoding="utf-8") as file:
+            json.dump(notpairing_list, file, ensure_ascii=False, indent=4)
         response_time = time.time() - start_time
         print("------------------------------------")
         print("Total Paragraphs: " + str(len(chinese_paragraphs)))
         print("Pairing Paragraphs: " +str(len(pairing_result)))
+        print("Not Pairing Paragraphs: " +str(len(chinese_paragraphs)- len(pairing_result)))
         print("Accuracy: " + str(float(self.limit_score) * 100)+"%")
-        print("Percentages: "+str(len(pairing_result)/len(chinese_paragraphs)*100))
+        print("Percentages: "+str(len(pairing_result)/len(chinese_paragraphs)*100)+"%")
         print(f"Pairing time: {response_time} seconds")
         print("------------------------------------")
             

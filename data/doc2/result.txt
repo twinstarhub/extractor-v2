@@ -1,0 +1,1757 @@
+[
+    {
+        "en": "保險公司名稱:",
+        "cn": "Name of insurance company:",
+        "score": 0.956
+    },
+    {
+        "en": "香港特別行政區之法律",
+        "cn": "□ High protection □ Low protection The laws of the Hong Kong Special Administrative Region",
+        "score": 0.882
+    },
+    {
+        "en": "這是甚麼產品？如何運作？",
+        "cn": "What is this product and how does it work?",
+        "score": 0.953
+    },
+    {
+        "en": "產品性質",
+        "cn": "A)  Product Features",
+        "score": 0.806
+    },
+    {
+        "en": "人壽保險保單，當中提供： • 多個投資選項以作投資；及 • 保險保障",
+        "cn": "Life insurance policy that provides:",
+        "score": 0.818
+    },
+    {
+        "en": "3. 投資",
+        "cn": "Investment instructions",
+        "score": 0.807
+    },
+    {
+        "en": "投資選項小冊子列明了在本產品下可供選取的投資選擇（及其相應的相關基金）， 當中全部為獲證監會依據《單位信託及互惠基金守則》認可的基金。",
+        "cn": "The range of Investment Choices (and corresponding Underlying Funds) available for selection under this product are listed in the Investment Choice Brochure. They are funds authorised by the SFC pursuant to the Code on Unit Trusts and Mutual Funds.",
+        "score": 0.86
+    },
+    {
+        "en": "用於支付保險保障的保險費用將從您的投連壽險保單中扣除。當受保人年紀漸增 或您的投資錄得虧損等情況時，這項收費可能會大幅增加。",
+        "cn": "policy. This charge may increase significantly when the insured gets older or your investments",
+        "score": 0.852
+    },
+    {
+        "en": "平台費",
+        "cn": "Platform fee",
+        "score": 0.927
+    },
+    {
+        "en": "6. 費用及收費",
+        "cn": "6.  Fees and charges",
+        "score": 0.841
+    },
+    {
+        "en": "保險費用",
+        "cn": "Cost of Insurance",
+        "score": 0.963
+    },
+    {
+        "en": "例如：管理費及業績表現費",
+        "cn": "E.g. management fee and performance fee",
+        "score": 0.806
+    },
+    {
+        "en": "4. 與相關基金表現掛鈎的 潛在價值升跌（扣除 相關基金收費後的淨值        ）",
+        "cn": "4. Potential increase / decrease in value linked to performance of Underlying Funds (net of Underlying Fund charges          )E",
+        "score": 0.849
+    },
+    {
+        "en": "本計劃有哪些主要風險？",
+        "cn": "What are the key risks?",
+        "score": 0.824
+    },
+    {
+        "en": "投資涉及風險。請參閱裕悅綻保障投資相連計劃的主要推銷刊物，了解風險因素等資料。",
+        "cn": "For the risk in relation to investing in Investment Choice (Cash Distribution), please refer to “Important Information” section for details.",
+        "score": 0.84
+    },
+    {
+        "en": "中銀人壽的信貸風險所影響。",
+        "cn": "therefore subject to the credit risks of BOC Life.",
+        "score": 0.801
+    },
+    {
+        "en": "• 65歲後的有限度人壽保障  ─  當受保人在其65歲生日當日或緊接其後的保單週年日或之後身 故，本投連壽險保單將不再提供高程度人壽保障，而您最終獲得的身故賠償可能會大幅減少。 請注意，高程度人壽保障僅適用於應歸屬於基本戶口（而非額外保費戶口）之身故賠償。",
+        "cn": "•  the minimum Death Benefit payable will be significantly dropped on or after the Policy Anniversary on or immediately following the insured’s 65th birthday. Therefore, depending on the issue age of the insured, the period for higher insurance protection may be very short and may not be sufficient for your insurance needs.",
+        "score": 0.837
+    },
+    {
+        "en": "• 部分投資選項具有較高風險  ─  本產品所提供的投資選項在產品特點和風險概況方面可以有 很大的差異，而當中部分投資選項可能涉及高風險。部分投資選項與從本金撥付股息的基金 掛鈎，而這樣可導致該基金的每單位資產淨值即時減少，從而降低您的投連壽險保單的價值。",
+        "cn": "• Some Investment Choices have higher risk – The Investment Choices available under this product can have  very  different  features  and  risk  proﬁles.  Some  may  be  of  high  risk.  Some  Investment  Choices linked  to  funds  that  pay  dividends  out  of  capital  which  may  result  in  an  immediate  reduction  of  the funds’ net asset value per unit and hence reduce the value of your ILAS policy.",
+        "score": 0.902
+    },
+    {
+        "en": "一名４０歲非吸煙男性就各持有期的估計保單收費（佔保費的百分比）（註1）",
+        "cn": "Estimated policy charges for a non-smoking 40 year-old male over the respective holding period (% of premiums) (Note 1)",
+        "score": 0.851
+    },
+    {
+        "en": "10年",
+        "cn": "10 years",
+        "score": 0.946
+    },
+    {
+        "en": "15年",
+        "cn": "15 years",
+        "score": 0.964
+    },
+    {
+        "en": "20年",
+        "cn": "20 years",
+        "score": 0.978
+    },
+    {
+        "en": "平台費",
+        "cn": "Platform fee",
+        "score": 0.927
+    },
+    {
+        "en": "相等於每年 保單價值的 1.27%",
+        "cn": "(equivalent to 1.27% of policy value per year)",
+        "score": 0.817
+    },
+    {
+        "en": "保險費用",
+        "cn": "Cost of Insurance",
+        "score": 0.963
+    },
+    {
+        "en": "相等於每年 保單價值的 1.02%",
+        "cn": "(equivalent to 1.02% of policy value per year)",
+        "score": 0.812
+    },
+    {
+        "en": "視乎每宗個案的個別情況，實際百分比可能會有所變動；如果保費金額較低，投保額較高及／ 或您所選擇的相關投資有所虧損，有關百分比可能遠高於上述數字。",
+        "cn": "The actual percentage(s) may change depending on individual circumstances of each case, and will be signiﬁcantly  higher  if  the  premium  amount  is  lower,  the  Sum  Insured  is  higher  and/or  your  selected underlying investments are making losses.",
+        "score": 0.883
+    },
+    {
+        "en": "平台費",
+        "cn": "Platform fee",
+        "score": 0.927
+    },
+    {
+        "en": "保費費用 A",
+        "cn": "Cost of Insurance",
+        "score": 0.872
+    },
+    {
+        "en": "保費費用率 (2.5%) x 每筆整付額外保費",
+        "cn": "G)  Cost of Insurance Rates",
+        "score": 0.812
+    },
+    {
+        "en": "保單管理費費率 (每年)",
+        "cn": "Policy Management Fee Rate (per annum)",
+        "score": 0.812
+    },
+    {
+        "en": "保險保障費用",
+        "cn": "Cost of insurance protection",
+        "score": 0.942
+    },
+    {
+        "en": "保險 費用 C",
+        "cn": "Cost of Insurance",
+        "score": 0.811
+    },
+    {
+        "en": "(iii)  實際年度保險費用費率由中銀人壽根據眾多相關因素 確定，包括但不限於受保人的已屆年齡、性別、吸煙狀況、 健康狀況和風險類別。",
+        "cn": "(iii) The actual annual Cost of Insurance rate determined by BOC Life is based on a number  of  relevant  factors,  including, without limitation, the attained age, sex, smoking  status,  health  status  and  risk classification of the insured.",
+        "score": 0.828
+    },
+    {
+        "en": "年度保險費用費 率會因為受保人的已屆年齡在保單期內 可能大幅上升，並且可能導致總戶口價值大幅減少。關於 指示性年度保險費用費率，請參閱裕悅綻保障投資相連計劃 產品小冊子的「保險費用費率」一節。您的個人化說明文件 的「費用及收費摘要」一節將提供適用於您的當前年度保險 費用費率。",
+        "cn": "increase The  annual  Cost  of  Insurance  rate  may signiﬁcantly during the policy term due to the insured’s attained  age  and  may  signiﬁcantly  reduce  the  Total Account  Value.  Please  refer  to  the  “Cost  of  Insurance Rates”  section  of  the  Product  Brochure  of  the  Blissful Bloom Protection Linked Plan for indicative annual COI rates.  Your  applicable  current  annual  COI  rate  can  be found in the “Summary of Fees and Charges” section of your personalised illustration document.",
+        "score": 0.836
+    },
+    {
+        "en": "•  您可取回已付金額，但若您所選取的投資選項的價值下跌，可取回的金額將會減少。",
+        "cn": "•  You may get back the amount you paid, or less if the value of the Investment Choices chosen has gone down.",
+        "score": 0.941
+    },
+    {
+        "en": "電郵：cs@boclife.com.hk",
+        "cn": "www.boclife.com.hk.",
+        "score": 0.908
+    },
+    {
+        "en": "網址：www.boclife.com.hk",
+        "cn": "www.boclife.com.hk.",
+        "score": 0.982
+    },
+    {
+        "en": "每年的平台費指在本投連壽險保單下就平台費總額（已扣除所有非酌情獎賞）徵收的對等年費（按保單",
+        "cn": "The platform fee per year means the equivalent annual fee (as a percentage of policy value) in respect of the total platform fee (net of all non-discretionary bonuses) levied under this ILAS policy.",
+        "score": 0.814
+    },
+    {
+        "en": "重要資訊：",
+        "cn": "Important Information:",
+        "score": 0.974
+    },
+    {
+        "en": "2.\t 本計劃並非銀行存款或儲蓄計劃，亦非沒有任何保險元素的投資基金。",
+        "cn": "2.  The Plan is not a bank deposit or savings plan, or investment fund without any insurance element.",
+        "score": 0.889
+    },
+    {
+        "en": "與您所選擇的投資選項相應的相關基金之回報。",
+        "cn": "Fund(s) corresponding to the Investment Choices you selected may further magnify your",
+        "score": 0.866
+    },
+    {
+        "en": "10.\t本計劃下可供選擇的投資選項在特點及風險方面可能存在重大差異，部分可能涉及高風險。您",
+        "cn": "8.  The Investment Choices available under the Plan can have very different features and risk profiles. Some of them may be even of high risk. You may incur significant losses by investing in such Investment Choices and are strongly advised to exercise caution in relation to such Investment Choices. You should not invest in any Investment Choice if you do not fully understand and are not willing to assume its associated risks.",
+        "score": 0.862
+    },
+    {
+        "en": "若投資於該等投資選項，或會遭受重大損失，因此強烈建議您在選擇該等投資選項時審慎行",
+        "cn": "8.  The Investment Choices available under the Plan can have very different features and risk profiles. Some of them may be even of high risk. You may incur significant losses by investing in such Investment Choices and are strongly advised to exercise caution in relation to such Investment Choices. You should not invest in any Investment Choice if you do not fully understand and are not willing to assume its associated risks.",
+        "score": 0.824
+    },
+    {
+        "en": "11.\t投資涉及風險。過往業績並非未來表現的指標。每個投資選項均面臨市場波動及所有投資的固",
+        "cn": "10. Investment  involves  risks.  Past  performance  should  not  be  taken  as  an  indication  of  future performance.  Each  Investment  Choice  is  subject  to  market  fluctuations  and  risks  inherent  in all  investments.  The  notional  Unit  Prices  of  Investment  Choices  and  the  income  accrued  from investing in such Investment Choices (if any) may go down as well as up. Investment returns are not guaranteed.",
+        "score": 0.894
+    },
+    {
+        "en": "有風險。投資選項的名義單位價格以及投資於該等投資選項產生的收益（如有）可升可跌。投",
+        "cn": "accrued from investing in such Investment Choices (if any) may go down as well as up.",
+        "score": 0.846
+    },
+    {
+        "en": "www.boclife.com.hk下載。",
+        "cn": "www.boclife.com.hk.",
+        "score": 0.928
+    },
+    {
+        "en": "本計劃如何運作？",
+        "cn": "How does the Plan work?",
+        "score": 0.948
+    },
+    {
+        "en": "A)\t 產品特點",
+        "cn": "A)  Product Features",
+        "score": 0.923
+    },
+    {
+        "en": "終止",
+        "cn": "Termination",
+        "score": 0.811
+    },
+    {
+        "en": "B)\t 費用及收費",
+        "cn": "B)  Fees and Charges",
+        "score": 0.812
+    },
+    {
+        "en": "C)\t 費用及收費說明例子",
+        "cn": "C)  Illustrative Examples of Fees and Charges",
+        "score": 0.823
+    },
+    {
+        "en": "D)\t 投資選項",
+        "cn": "D)  Investment Choices",
+        "score": 0.947
+    },
+    {
+        "en": "投資選項轉換",
+        "cn": "Investment Choice Switching",
+        "score": 0.912
+    },
+    {
+        "en": "投資選項╱相關基金之變更",
+        "cn": "Changes to Investment Choices / Underlying Funds",
+        "score": 0.892
+    },
+    {
+        "en": "E)\t 一般資訊",
+        "cn": "E)  General Information",
+        "score": 0.934
+    },
+    {
+        "en": "G)\t 保險費用費率",
+        "cn": "G)  Cost of Insurance Rates",
+        "score": 0.968
+    },
+    {
+        "en": "本計劃按照《保險業條例》的定義被劃分為「類別\t C\t -\t 相連長期業務」。它並非根據《單位信託及互惠基金 守則》（「單位信託守則」）獲證券及期貨事務監察委員會（「證監會」）認可的基金。中銀人壽受保險業 監管局監管，且本計劃已獲證監會認可。證監會認可並非對計劃作出推薦或認許，亦非對計劃的商業利弊或 表現作出保證，其並不意味著計劃適合所有投資者，亦並非認許其適合任何個別投資者或任何類別投資者。",
+        "cn": "The Plan is classified under Class C linked long-term business, as defined in the Insurance Ordinance. It is not a fund authorized by the Securities and Futures Commission of Hong Kong (the “SFC”) pursuant to the Code on Unit Trusts and Mutual Funds (“UT Code”). BOC Life is subject to the regulation of the Insurance Authority  and  the  Plan  has  been  authorized  by  the  SFC.  SFC  authorization  is  not  a  recommendation or endorsement of a scheme nor does it guarantee the commercial merits of a scheme or its performance. It does not mean the scheme is suitable for all investors nor is it an endorsement of its suitability for any particular investor or class of investors.",
+        "score": 0.823
+    },
+    {
+        "en": "本計劃如何運作？",
+        "cn": "How does the Plan work?",
+        "score": 0.948
+    },
+    {
+        "en": "下文圖表展示本計劃的運作方式：",
+        "cn": "The following diagram is to illustrate how the Plan works:",
+        "score": 0.894
+    },
+    {
+        "en": "扣除保費費用",
+        "cn": "• Cost of Insurance (“COI”)",
+        "score": 0.831
+    },
+    {
+        "en": "保費費用",
+        "cn": "Cost of Insurance",
+        "score": 0.903
+    },
+    {
+        "en": "•\t 保單管理費 •\t 保險費用",
+        "cn": "• Cost of Insurance (“COI”)",
+        "score": 0.867
+    },
+    {
+        "en": "•\t 保險費用",
+        "cn": "Cost of Insurance",
+        "score": 0.949
+    },
+    {
+        "en": "A)\t產品特點",
+        "cn": "A)  Product Features",
+        "score": 0.923
+    },
+    {
+        "en": "計劃貨幣",
+        "cn": "Plan currency",
+        "score": 0.894
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "人民幣",
+        "cn": "TEHYD",
+        "score": 0.821
+    },
+    {
+        "en": "對於新申請，如何釐定待分配的單位數量？",
+        "cn": "How  to  determine  the  number  of  Units  to  be allocated for new application?",
+        "score": 0.81
+    },
+    {
+        "en": "保費費用",
+        "cn": "Cost of Insurance",
+        "score": 0.903
+    },
+    {
+        "en": "保險費用",
+        "cn": "Cost of Insurance",
+        "score": 0.963
+    },
+    {
+        "en": "適用",
+        "cn": "to",
+        "score": 0.804
+    },
+    {
+        "en": "適用",
+        "cn": "to",
+        "score": 0.804
+    },
+    {
+        "en": "適用",
+        "cn": "to",
+        "score": 0.804
+    },
+    {
+        "en": "適用",
+        "cn": "to",
+        "score": 0.804
+    },
+    {
+        "en": "如受保人自殺，我們將不會支付身故賠償。",
+        "cn": "We will not pay the Death Benefit in case of suicide of the insured.",
+        "score": 0.855
+    },
+    {
+        "en": "請注意：",
+        "cn": "Please note that:",
+        "score": 0.861
+    },
+    {
+        "en": "要獲得身故賠償款項，受益人須以書面形式並使用我們規定的表格提交已填妥的受保人身故通知，以及按照 保單條款提供受保人的身故證明（「身故賠償申請」）。",
+        "cn": "To receive the proceeds from the death claim, the beneficiary is required to submit in writing a duly completed notification of the insured’s death using our prescribed form(s) and provide the insured’s proof of death as per the policy provisions (“death claim request”).",
+        "score": 0.815
+    },
+    {
+        "en": "受益人應在身故索償過程完成後收到身故索償付款， 即\t(i)\t身故索償估值日；或\t(ii)\t我們收到符合本公司要求 的所有相關文件（以較後者為準）之後14個工作日內。",
+        "cn": "The beneficiary shall receive the payment of death claim  upon  completion  of  the  death  claim  process which is within 14 Working Days after the later of (i) the death claim valuation day; and (ii) our receipt of all the relevant documentation to the satisfaction of the Company.",
+        "score": 0.804
+    },
+    {
+        "en": "(iii)\t相關年度保險費用費率由中銀人壽根據眾多相關 因素確定，包括但不限於受保人的已屆年齡、性 別、吸煙狀況、健康狀況和風險類別。",
+        "cn": "(iii) The actual annual Cost of Insurance rate determined by BOC Life is based on a number  of  relevant  factors,  including, without limitation, the attained age, sex, smoking  status,  health  status  and  risk classification of the insured.",
+        "score": 0.815
+    },
+    {
+        "en": "關於保險費用，請參閱「費用及收費」一節，以了解 詳情。",
+        "cn": "• Cost of Insurance (“COI”)",
+        "score": 0.811
+    },
+    {
+        "en": "費，將用於支付壽險保障的保險費用。",
+        "cn": "Cost of Insurance",
+        "score": 0.865
+    },
+    {
+        "en": "相應的相關基金之金額。",
+        "cn": "of  the  Underlying  Funds,  which  are  available  from  us  upon  request,  for  details  of",
+        "score": 0.812
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "說明例子\t—\t若受保人在首個保單年度自殺，自殺所得款項之計算",
+        "cn": "Illustrative Example – Calculation of suicide proceeds if the insured commits suicide within the first Policy Year",
+        "score": 0.849
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "計算自殺所得款項",
+        "cn": "Calculation of suicide proceeds",
+        "score": 0.913
+    },
+    {
+        "en": "自殺所得款項（(i)和(ii)的較低者）",
+        "cn": "Suicide proceeds (lower of (i) and (ii) above)",
+        "score": 0.893
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "首50,000美元\t/\t人民幣333,333元",
+        "cn": "Any amount in excess of USD50,000 / RMB333,333",
+        "score": 0.806
+    },
+    {
+        "en": "超過50,000美元\t/\t人民幣333,333元的金額",
+        "cn": "Any amount in excess of USD50,000",
+        "score": 0.804
+    },
+    {
+        "en": "上述長期客戶獎賞的比率並不代表您投資的回報率或表現。",
+        "cn": "The rate of the loyalty bonus as described above does not represent the rate of return or performance of your investments.",
+        "score": 0.82
+    },
+    {
+        "en": "如何釐定將分配的單位數量？",
+        "cn": "How to determine the number of Units to be allocated?",
+        "score": 0.826
+    },
+    {
+        "en": "2031年12月1日",
+        "cn": "1 Oct 2032",
+        "score": 0.904
+    },
+    {
+        "en": "2032年1月1日",
+        "cn": "1 Apr 2032",
+        "score": 0.936
+    },
+    {
+        "en": "2032年2月1日",
+        "cn": "1 Apr 2032",
+        "score": 0.936
+    },
+    {
+        "en": "2032年3月1日",
+        "cn": "1 Apr 2032",
+        "score": 0.961
+    },
+    {
+        "en": "2032年4月1日",
+        "cn": "1 Apr 2032",
+        "score": 0.969
+    },
+    {
+        "en": "2032年5月1日",
+        "cn": "1 Apr 2032",
+        "score": 0.941
+    },
+    {
+        "en": "2032年6月1日",
+        "cn": "1 Apr 2032",
+        "score": 0.936
+    },
+    {
+        "en": "2032年7月1日",
+        "cn": "1 Apr 2032",
+        "score": 0.933
+    },
+    {
+        "en": "2032年8月1日",
+        "cn": "1 Apr 2032",
+        "score": 0.935
+    },
+    {
+        "en": "2032年9月1日",
+        "cn": "1 Oct 2032",
+        "score": 0.945
+    },
+    {
+        "en": "2032年10月1日",
+        "cn": "1 Oct 2032",
+        "score": 0.978
+    },
+    {
+        "en": "2032年11月1日",
+        "cn": "1 Oct 2032",
+        "score": 0.968
+    },
+    {
+        "en": "部分提取，加上與選定的投資選項相應的相關基金之 不利投資表現及╱或月扣費用，可能導致總戶口價 值、身故賠償及╱或應付長期客戶獎賞大幅下降。",
+        "cn": "Partial  withdrawals,  magnified  by  unfavourable investment performance of the Underlying Funds corresponding  to  the Investment  Choice(s) selected  and  /  or  the  Monthly  Deduction,  may lead  to  a  significant  drop  in  the  Total  Account Value,  Death  Benefit  and  /  or  loyalty  bonus payable.",
+        "score": 0.802
+    },
+    {
+        "en": "請注意，在獲得相關監管批准的前提下，我們保留權 利通過發出提前至少一個月或符合相關監管規定的更 短通知期的事先書面通知，修改上述最低金額。",
+        "cn": "Please note that we reserve the right to revise the above minimum amounts subject to relevant regulatory approval by giving at least one month’s prior written notice or such shorter period of notice in compliance with the relevant regulatory requirements.",
+        "score": 0.864
+    },
+    {
+        "en": "終止",
+        "cn": "Termination",
+        "score": 0.811
+    },
+    {
+        "en": "事件",
+        "cn": "TEHYD",
+        "score": 0.828
+    },
+    {
+        "en": "詳細內容請參閱下列章節",
+        "cn": "Please refer to the following section for details",
+        "score": 0.81
+    },
+    {
+        "en": "身故賠償或自殺所得款項",
+        "cn": "Death Benefit or suicide proceeds",
+        "score": 0.83
+    },
+    {
+        "en": "B)\t費用及收費",
+        "cn": "B)  Fees and Charges",
+        "score": 0.812
+    },
+    {
+        "en": "平台費",
+        "cn": "Platform fee",
+        "score": 0.927
+    },
+    {
+        "en": "保費費用率（2.5%）x\t每筆整付額 外保費",
+        "cn": "G)  Cost of Insurance Rates",
+        "score": 0.833
+    },
+    {
+        "en": "保單管理費費率（每年）",
+        "cn": "Policy Management Fee Rate (per annum)",
+        "score": 0.809
+    },
+    {
+        "en": "保險保障費用",
+        "cn": "Cost of insurance protection",
+        "score": 0.942
+    },
+    {
+        "en": "保險費用",
+        "cn": "Cost of Insurance",
+        "score": 0.963
+    },
+    {
+        "en": "2)\t 額外保費戶口（如有）的保險費用：",
+        "cn": "• Cost of Insurance (“COI”)",
+        "score": 0.805
+    },
+    {
+        "en": "(iii)\t實際年度保險費用費率由中銀人壽根據 眾多相關因素確定，包括但不限於受保 人的已屆年齡、性別、吸煙狀況、健康 狀況和風險類別。",
+        "cn": "(iii) The actual annual Cost of Insurance rate determined by BOC Life is based on a number  of  relevant  factors,  including, without limitation, the attained age, sex, smoking  status,  health  status  and  risk classification of the insured.",
+        "score": 0.826
+    },
+    {
+        "en": "請注意，由於受保人年齡增長，保單期內 的年度保險費用費率可能大幅上升。",
+        "cn": "The annual Cost of Insurance rate increases based on the insured’s attained age. Please refer to the table below.",
+        "score": 0.869
+    },
+    {
+        "en": "您應注意，投資選項的相關基金可能單獨收取管理費、業績表現費、買賣價差及╱或 轉換費等費用。您毋須直接支付這些費用：相關費用將從相關基金單位價格中扣除並 反映。有關詳情請參閱投資選項小冊子及相關基金的銷售文件，該等文件可向中銀人 壽索取。",
+        "cn": "You  should  note  that  the  Underlying  Funds  of  the  Investment  Choices  may  have separate charges for management fees, performance fees, bid-offer spreads and / or switching fees. You do not pay these fees directly: the fees will be deducted from and reflected in the Underlying Fund Unit Price. For details, please refer to the Investment Choice  Brochure  and  the  offering  documents  of  the  Underlying  Funds,  which  are available from BOC Life upon request.",
+        "score": 0.806
+    },
+    {
+        "en": "C)\t費用及收費說明例子",
+        "cn": "C)  Illustrative Examples of Fees and Charges",
+        "score": 0.823
+    },
+    {
+        "en": "於2027年4月10日（第4個保單年度內）",
+        "cn": "On 10 April 2027 (within the 4th Policy Year)",
+        "score": 0.864
+    },
+    {
+        "en": "於2026年9月2日（第2個保單年度內）",
+        "cn": "On 2 September 2026 (within the 2nd Policy Year)",
+        "score": 0.876
+    },
+    {
+        "en": "3.\t 如何計算保險費用？",
+        "cn": "• Cost of Insurance (“COI”)",
+        "score": 0.841
+    },
+    {
+        "en": "在上述兩種情況中將扣除的保險費用計算如下：",
+        "cn": "The Cost of Insurance to be deducted in the above two scenarios would be calculated as follows:",
+        "score": 0.892
+    },
+    {
+        "en": "(ii)\t 已支付躉繳保費的150%，減 去已作出的部分提取金額",
+        "cn": "(ii)   150% of the Single Premium paid, less partial withdrawal amounts ever made",
+        "score": 0.8
+    },
+    {
+        "en": "情況1 （截至2030年2月1日）",
+        "cn": "1 Apr 2032",
+        "score": 0.862
+    },
+    {
+        "en": "情況2 （截至2042年2月1日）",
+        "cn": "Scenario 2 (as of 1 February 2042)",
+        "score": 0.853
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "年度保險費用費率 （詳情請參閱「保險費用費率」一節）",
+        "cn": "Annual Cost of Insurance rate (Refer to the “Cost of Insurance Rates” section for details)",
+        "score": 0.933
+    },
+    {
+        "en": "年度保險費用費率 （詳情請參閱「保險費用費率」 一節）",
+        "cn": "Annual Cost of Insurance rate (Refer to the “Cost of Insurance Rates” section for details)",
+        "score": 0.941
+    },
+    {
+        "en": "1.32 (39歲時)",
+        "cn": "1.32 (At age 39)",
+        "score": 0.923
+    },
+    {
+        "en": "3.77 (51歲時)",
+        "cn": "3.77 (At age 51)",
+        "score": 0.914
+    },
+    {
+        "en": "D)\t投資選項",
+        "cn": "D)  Investment Choices",
+        "score": 0.947
+    },
+    {
+        "en": "(i)\t 分配至每個選定的投資選項的百分比必須為整數，並且至少為躉繳保費或每筆整付額外保費（如有）",
+        "cn": "the percentage allocated to each selected Investment Choice must be an integer and at least 10% of the Single Premium or each Lump Sum Top-up Premium (if any), as the case may be; and",
+        "score": 0.846
+    },
+    {
+        "en": "(ii)\t 您的全部保費分配百分比合計必須為100%。",
+        "cn": "(ii)  the total of all your premium allocation percentages must be 100%.",
+        "score": 0.894
+    },
+    {
+        "en": "關於單位價格的最新資訊，請參閱網站www.boclife.com.hk。您亦可從您的專業理財顧問獲取投資選項的單 位價格。",
+        "cn": "For the latest information on the Unit Price, please refer to www.boclife.com.hk. You may also obtain the Unit Price of an Investment Choice through your financial consultant.",
+        "score": 0.808
+    },
+    {
+        "en": "投資選項轉換",
+        "cn": "Investment Choice Switching",
+        "score": 0.912
+    },
+    {
+        "en": "整個轉換過程將在轉換處理日之後的7個工作日內完 成。",
+        "cn": "The entire switching process will be completed within 7 Working Days after the switching processing day.",
+        "score": 0.905
+    },
+    {
+        "en": "然而，在超出我們控制的特殊情況下，如「一般資 訊」一節中「延遲和拒絕交易及估值」段落下所述， 我們保留延遲或拒絕任何此類轉換過程的權利。如該 轉換申請未被拒絕，我們將在該等特殊情況結束後儘 快進行轉換。由於該等特殊情況而被延遲的轉換均不 會產生任何利息。",
+        "cn": "However,  we  reserve  the  right  to  defer  or  refuse any  such  switching  process  under  extraordinary circumstances  that  are  beyond  our  control,  such as  those  described  under  the  “Deferment  and refusal of Transaction and valuation” in the “General Information” section. If such switching request is not refused, the switching will be made by us as soon as practicable after the cessation of such extraordinary circumstances.  No  interest  shall  accrue  on  any deferred  switching  due to  such  exceptional circumstances.",
+        "score": 0.806
+    },
+    {
+        "en": "除上文所述之外，我們可能會以誠信並以商業上合理 的方式行使我們認為更高效或具成本效益的投資選項 轉換方法，以最大限度減少貨幣換算次數，並減少保 單權益人負擔的交易成本。任何貨幣波動或虧損的風 險將由您承擔。例如，如轉入和轉出的投資選項皆是 以不同於您的投連壽險保單基本貨幣的相同貨幣計 值，我們可在不進行貨幣兌換的情況下進行轉換。",
+        "cn": "We  may  exercise  methods  of  Investment  Choice switching  other  than  those  prescribed  above  that we  deem  more  efficient  or  cost-effective  in  good faith and a commercially reasonable manner, so as to minimize the number of currency exchange and reduce the transaction cost to the Policy Owner. Any risk of currency fluctuations or losses shall be borne by you. For example, we may process the switching without  currency  conversion  if  both  the  switching- Investment  Choices  are in  and  switching-out denominated in the same currency which is different from the policy currency of your ILAS policy.",
+        "score": 0.852
+    },
+    {
+        "en": "投資選項╱相關基金之變更",
+        "cn": "Changes to Investment Choices / Underlying Funds",
+        "score": 0.892
+    },
+    {
+        "en": "在獲得相關監管批准的前提下，如我們決定終止您持有的某個投資選項或將您持有的某個投資選項與另一投 資選項合併，我們將在該變更之前至少一（1）個月（或符合相關監管規定的更短通知期）通過發出事先書 面通知以通知您。如您所選擇的投資選項相應的相關基金因相應的相關基金的基金經理作出的決定或任何超 出我們控制的情況（如對相應的相關基金進行交易變得不現實或違反任何法律或法規）而被終止或與其他相 關基金合併，從而變得無法交易，我們將在擬定投資選項終止或合併的生效日期前至少一（1）個月（或符 合相關監管規定的更短通知期）通過發出書面通知告知您我們的建議安排。",
+        "cn": "We will inform you if we decide to terminate or merge an Investment Choice held by you with another by giving prior written notice of at least one (1) month (or such shorter period of notice in compliance with the  relevant  regulatory  requirements)  prior  to  such  change  subject  to  relevant  regulatory  approval.  If  the Underlying Fund(s) corresponding to Investment Choice(s) you selected is/are terminated or merged with other(s) and becomes unavailable for trading as a result of decisions taken by the fund manager(s) of the corresponding Underlying Fund(s), or any circumstances beyond our control such as the Transaction of the corresponding Underlying Fund(s) becoming impracticable or in breach of any laws or regulations, we will inform you of our proposed arrangement with a written notice at least one (1) month (or such shorter period of notice in compliance with the relevant regulatory requirements) prior to the effective date of the proposed termination or merger of Investment Choice(s).",
+        "score": 0.877
+    },
+    {
+        "en": "更多詳情請參閱投資選項小冊子。",
+        "cn": "Please refer to the Investment Choice Brochure for more information.",
+        "score": 0.845
+    },
+    {
+        "en": "(1)\t 以額外單位的形式，將股息款項再投資於投資選項",
+        "cn": "(1)  Re-investing the dividend amount in the form of additional Units in the Investment Choice",
+        "score": 0.845
+    },
+    {
+        "en": "關於投資於投資選項（現金分派）之風險，請參閱投資選項小冊子的「重要資訊」章節。",
+        "cn": "For the risk in relation to investing in Investment Choice (Cash Distribution), please refer to “Important Information” section for details.",
+        "score": 0.847
+    },
+    {
+        "en": "E)\t一般資訊",
+        "cn": "E)  General Information",
+        "score": 0.934
+    },
+    {
+        "en": "無第三方權利",
+        "cn": "No Third Party Rights",
+        "score": 0.804
+    },
+    {
+        "en": "借貸權和投資限制",
+        "cn": "Borrowing powers and restrictions on investments",
+        "score": 0.884
+    },
+    {
+        "en": "在超出我們控制的特殊情況下，我們擁有全權酌情決定權暫停、限制、拒絕或延遲任何投資選項中的單位之 分配、註銷或估值。該等特殊情況包括但不限於下列情況：",
+        "cn": "We have the sole discretion to suspend, limit, refuse or defer the allocation, cancellation or valuation of the Units in any Investment Choices under exceptional circumstances beyond our control. Such exceptional circumstances include, without limitation, the following circumstances:",
+        "score": 0.878
+    },
+    {
+        "en": "(i)\t 當任何相關基金的認購或贖回被暫停、限制或延遲時；",
+        "cn": "(ii)  when the valuation or dealings in any Underlying Fund have been suspended or restricted;",
+        "score": 0.858
+    },
+    {
+        "en": "(ii)\t 當任何相關基金的估值或交易被暫定或限制時；",
+        "cn": "(ii)  when the valuation or dealings in any Underlying Fund have been suspended or restricted;",
+        "score": 0.914
+    },
+    {
+        "en": "(iii)\t當有關的相關基金的資產報價、買賣或交易所在的任何主要證券交易所或市場被關閉（正常休市時間或",
+        "cn": "(iii)  when any of the principal stock exchanges or markets on which the assets of the relevant Underlying Fund are quoted, traded or dealt is closed (other than during the usual closing hours or days) or has restricted dealings;",
+        "score": 0.925
+    },
+    {
+        "en": "(iv)\t當我們或負責有關的相關基金管理的基金經理無法匯回資金，或認為為執行投連壽險保單下之交易而進",
+        "cn": "4.  when  we  or  the  fund  manager  responsible  for  the  management  of  the  relevant  Underlying  Fund  is unable to repatriate money, or considers that any transfer of money for the purposes of carrying out Transactions under the ILAS policy is not possible at normal rates of exchange;",
+        "score": 0.806
+    },
+    {
+        "en": "(vii)\t當存在超出我們控制的任何其他情況，導致相關投資選項中單位的分配、註銷或估值不可能或不可行或 不符合您的權益時，包括但不限於發生任何敵對事件、戰爭或災難、我們的正常業務被中斷、疫情、地 方性流行病、或通訊方式中斷。",
+        "cn": "(vii) when  there  are  any  other  circumstances  beyond  our  control  making  the  allocation,  cancellation  or valuation  of  the  Units  in  the  relevant  Investment  Choice  impossible  or  impracticable  or  not  in  your interest,  including  but  not  limited  to,  occurrence  of  any  hostility,  war  or  disaster,  interruption  of  our normal business, pandemic, epidemic, or breakdown of means of communication.",
+        "score": 0.889
+    },
+    {
+        "en": "稅務",
+        "cn": "Taxation",
+        "score": 0.968
+    },
+    {
+        "en": "請根據您自身的稅務情況，就稅務事宜諮詢獨立專業意見。",
+        "cn": "Please seek independent professional advice on tax matters regarding your own tax circumstances.",
+        "score": 0.929
+    },
+    {
+        "en": "海外賬戶稅收合規法案",
+        "cn": "Foreign Account Tax Compliance Act",
+        "score": 0.868
+    },
+    {
+        "en": "美國與香港兩地已簽署跨政府協議（「跨政府協議」），以便在香港的外國金融機構符合《海外賬戶稅收合 規法案》的規定。協議更建立框架，讓在香港的外國金融機構可透過簡化的盡職調查程序來（i）識別保單持 有人╱保單受益人是否為美國人、（ii）要求其美國保單持有人╱美國保單受益人同意披露資料，以及（iii） 向美國國稅局申報該等保單持有人╱保單受益人的相關稅務資料。",
+        "cn": "The U.S. and Hong Kong have signed an inter-governmental agreement (“IGA”) to facilitate compliance by FFIs in Hong Kong with FATCA and which creates a framework for Hong Kong FFIs to rely on streamlined due  diligence  procedures  to  (i)  determine  if  the  Policy  Owners  /  beneficiaries  are  U.S.  Persons,  (ii)  seek consent for disclosure from its U.S. Policy Owners / beneficiaries and (iii) report relevant tax information of those Policy Owners / beneficiaries to the IRS.",
+        "score": 0.809
+    },
+    {
+        "en": "(i)\t 倘若香港稅務局未能按跨政府協議（及香港與美國兩地就稅務資料交換的相關協議）與美國國稅局交 換資料時，中銀人壽可能被要求於您的投連壽險保單的可預扣款項中扣減及扣除《海外賬戶稅收合規法 案》預扣稅，並將相關款項電匯至美國國稅局；以及",
+        "cn": "if the Inland Revenue Department of Hong Kong fails to exchange information with the IRS under IGA (and the relevant tax information exchange agreement between Hong Kong and the U.S.), in which case BOC Life may be required to deduct and withhold FATCA Withholding Tax on withholdable payments made to your ILAS policy and remit this to the IRS; and",
+        "score": 0.831
+    },
+    {
+        "en": "自動交換資料",
+        "cn": "The Automatic Exchange of Information (“AEOI”)",
+        "score": 0.814
+    },
+    {
+        "en": "管轄法律及司法管轄權",
+        "cn": "Governing Laws and Jurisdiction",
+        "score": 0.857
+    },
+    {
+        "en": "責任",
+        "cn": "Responsibility",
+        "score": 0.97
+    },
+    {
+        "en": "我們對銷售文件中包含資訊的準確性承擔全部責任，並在作出一切合理查詢後確認，盡我們所知所信，並無 遺漏其他事實令本文件的任何陳述具誤導成分。",
+        "cn": "We accept full responsibility for the accuracy of the information contained in the offering documents and confirm, having made all reasonable enquiries, that to the best of our knowledge and belief there are no other facts the omission of which would make any statement misleading.",
+        "score": 0.852
+    },
+    {
+        "en": "客戶服務",
+        "cn": "Customer Support",
+        "score": 0.839
+    },
+    {
+        "en": "「保險費用」指每月保險費用，相等於風險保額除以1,000，再乘以將向投連壽險保單收取 的相關年度保險費用費率除以12。實際年度保險費用費率根據眾多相關因素確定，包括但不 限於受保人的已屆年齡、性別、吸煙狀況、健康狀況和風險類別。",
+        "cn": "Annual Cost of Insurance rate",
+        "score": 0.894
+    },
+    {
+        "en": "「投資選項」指在裕悅綻下不時可供您選擇、且載列於投資選項小冊子中的一系列投資選 項。它們僅可通過裕悅綻的投連壽險保單進行投資，而不可直接購買。",
+        "cn": "Name of Investment Choice",
+        "score": 0.809
+    },
+    {
+        "en": "「投保額」指相等於已支付躉繳保費\t150%的金額。",
+        "cn": "“Sum Insured” means the amount equivalent to 150% of Single Premium paid.",
+        "score": 0.849
+    },
+    {
+        "en": "「交易日」指可進行交易的每個工作日，該日同時亦為投資選項有關的相關基金的估值日。",
+        "cn": "“Transaction  Date”  means  every  Working  Day  which  is  also  a  Valuation  Day  of  the  Underlying  Fund 37",
+        "score": 0.857
+    },
+    {
+        "en": "「相關基金」指與投資選項掛鈎的相關基金。",
+        "cn": "“Underlying Fund(s)” means the underlying fund to which an Investment Choice is linked.",
+        "score": 0.899
+    },
+    {
+        "en": "「單位價格」指於每一個工作日且該工作日亦為相應的相關基金估值日之時，本公司可供選 擇的某個投資選項一個單位的價格。於某個工作日的該價格，相等於相應的相關基金於與該 工作日屬同一日的估值日的單位價格。",
+        "cn": "“Unit Price” means the price of a Unit of an Investment Choice made available by the Company on every Working Day provided that it is also a Valuation Date of the corresponding Underlying Fund. Such price on a Working Day is equal to the corresponding Underlying Fund Unit Price on a Valuation Date falling on the same date of that Working Day.",
+        "score": 0.862
+    },
+    {
+        "en": "「估值日」指就某個相關基金而言，相關基金的基金經理所確定對該相關基金資產進行估值 之日期。",
+        "cn": "“Valuation Date” means, in relation to an Underlying Fund, the date on which assets of that Underlying Fund are valued, as determined by the fund manager of the Underlying Fund.",
+        "score": 0.891
+    },
+    {
+        "en": "「工作日」指持牌銀行在香港辦公之任何日子（星期六除外），但不包括《釋義及通則條 例》（香港法例第1章）第71(2)條所定義的任何烈風警告日或黑色暴雨警告日。",
+        "cn": "“Working  Day”  means  any  day  (other  than  a  Saturday)  on  which  licensed  banks  are  open  for  business in Hong Kong but excluding any gale warning day or black rainstorm warning day within the meaning of section 71(2) of the Interpretation and General Clauses Ordinance (Cap. 1 of the Laws of Hong Kong)",
+        "score": 0.912
+    },
+    {
+        "en": "G)\t保險費用費率",
+        "cn": "G)  Cost of Insurance Rates",
+        "score": 0.968
+    },
+    {
+        "en": "年度保險費用費率會根據受保人的已屆年齡上調。詳情請參閱下表。",
+        "cn": "The annual Cost of Insurance rate increases based on the insured’s attained age. Please refer to the table below.",
+        "score": 0.852
+    },
+    {
+        "en": "29歲",
+        "cn": "1.32 (At age 39)",
+        "score": 0.827
+    },
+    {
+        "en": "31歲",
+        "cn": "1.32 (At age 39)",
+        "score": 0.806
+    },
+    {
+        "en": "32歲",
+        "cn": "1.32 (At age 39)",
+        "score": 0.833
+    },
+    {
+        "en": "33歲",
+        "cn": "1.32 (At age 39)",
+        "score": 0.804
+    },
+    {
+        "en": "34歲",
+        "cn": "1.32 (At age 39)",
+        "score": 0.807
+    },
+    {
+        "en": "37歲",
+        "cn": "1.32 (At age 39)",
+        "score": 0.801
+    },
+    {
+        "en": "年度保險費用費率",
+        "cn": "Annual Cost of Insurance rate",
+        "score": 0.966
+    },
+    {
+        "en": "年度保險費用費率",
+        "cn": "Annual Cost of Insurance rate",
+        "score": 0.966
+    },
+    {
+        "en": "年度保險費用費率",
+        "cn": "Annual Cost of Insurance rate",
+        "score": 0.966
+    },
+    {
+        "en": "本投資選項小冊子載列投資選項以及投資選項相應的相關基金的資料。所有相關基金均為根據《單 位信託及互惠基金守則》獲證券及期貨事務監察委員會（「證監會」）認可的基金。證監會認可並 非對計劃作出推薦或認許，亦非對計劃的商業利弊或表現作出保證，其並不意味著計劃適合所有投 資者，亦並非認許其適合任何個別投資者或任何類別投資者。",
+        "cn": "Information  of  Investment  Choices  and  Underlying  Funds  corresponding  to  the  Investment  Choices  are listed  in  this  Investment  Choice  Brochure.  All  Underlying  Funds  are  authorized  by  the  Securities  and Futures Commission of Hong Kong (the “SFC”) pursuant to the Code on Unit Trusts and Mutual Funds. SFC authorization is not a recommendation or endorsement of a scheme nor does it guarantee the commercial merits of a scheme or its performance. It does not mean the scheme is suitable for all investors nor is it an endorsement of its suitability for any particular investor or class of investors.",
+        "score": 0.805
+    },
+    {
+        "en": "重要資訊：",
+        "cn": "Important Information:",
+        "score": 0.974
+    },
+    {
+        "en": "2.\t \t本計劃並非銀行存款或儲蓄計劃，亦非沒有任何保險元素的投資基金。",
+        "cn": "2.  The Plan is not a bank deposit or savings plan, or investment fund without any insurance element.",
+        "score": 0.889
+    },
+    {
+        "en": "8.\t 本計劃下可供選擇的投資選項在特點及風險方面可能存在重大差異，部分可能涉及高風險。您",
+        "cn": "8.  The Investment Choices available under the Plan can have very different features and risk profiles. Some of them may be even of high risk. You may incur significant losses by investing in such Investment Choices and are strongly advised to exercise caution in relation to such Investment Choices. You should not invest in any Investment Choice if you do not fully understand and are not willing to assume its associated risks.",
+        "score": 0.877
+    },
+    {
+        "en": "若投資於該等投資選項，或會遭受重大損失，因此強烈建議您在選擇該等投資選項時審慎行 事。如您並非完全了解且願意承擔相關風險，請勿投資於任何投資選項。",
+        "cn": "relation to such Investment Choices. You should not invest in any Investment Choice if",
+        "score": 0.846
+    },
+    {
+        "en": "現金股息。關於投資選項（現金分派）的重要資料：",
+        "cn": "to  the  performance  of  the  Underlying  Funds  corresponding  to  the  Investment  Choices  you",
+        "score": 0.803
+    },
+    {
+        "en": "(a)\t 從投資選項（現金分派）的相關基金分派的現金股息，其股息金額和分派頻率並無保證， 並且由您投資的投資選項（現金分派）相應的相關基金酌情決定。我們已派付的現金股息 金額並非未來現金股息任何形式的指標、預測或估計。",
+        "cn": "(a)  The  distribution  of  cash  dividends  from  Underlying  Fund  of  the  Investment  Choice  (Cash Distribution),  dividend  amounts  and  distribution  frequency  are  not  guaranteed  and  are subject  to  the  discretion  of  the  Underlying  Fund  corresponding  to  the  Investment  Choice (Cash Distribution) you invested. The cash dividend amounts we have paid are not an indication, forecast or projection of future cash dividends in any way.",
+        "score": 0.817
+    },
+    {
+        "en": "(c)\t 從資本撥付款項支付股息，相當於從您的原始投資中或從原始投資應佔的任何資本收益中 退回或提取部分金額。涉及從資本或實際上從資本撥付現金股息的任何分派，可能導致您 投資的投資選項（現金分派）相應的相關基金每單位資產淨值即時減少，並相應地反映在 投資選項（現金分派）的單位價格中，這可能對投資選項（現金分派）的單位價格產生負 面影響。",
+        "cn": "(c)  Payment  of  dividends  out  of  capital  amounts  to  a  return  or  withdrawal  of  part  of  your  original investment  or  from  any  capital  gains  attributable  to  that  original  investment.  Any  distributions involving payment of cash dividends out of capital or effectively out of capital may result in an immediate reduction of the net asset value per unit of the Underlying Fund corresponding to the Investment Choice (Cash Distribution) you invested and is reflected in the Unit Price of the Investment Choice (Cash Distribution) accordingly, which may have a negative impact on the Unit Price of the Investment Choice (Cash Distribution).",
+        "score": 0.806
+    },
+    {
+        "en": "(e)\t 在獲得相關監管批准的前提下，我們保留權利通過向您發出提前至少一個月或符合相關監 管規定的更短通知期的事先書面通知，修訂本計劃（包括其投資選項）的分派政策及相關 行政管理安排。",
+        "cn": "(e)  We  reserve  the  right  to  revise  the  distribution  policy  of  the  Plan  (including  its  Investment Choices)  and  related  administration  arrangement  subject  to  relevant  regulatory  approval by giving at least one month’s prior written notice to you or any shorter period of notice in compliance with the relevant regulatory requirements.",
+        "score": 0.813
+    },
+    {
+        "en": "(f)\t 在您選擇投資選項（現金分派）前，您應完全明白投資選項（現金分派）及其相關風險。",
+        "cn": "(f)  You should fully understand the Investment Choice (Cash Distribution) and its associated risks",
+        "score": 0.812
+    },
+    {
+        "en": "10.\t\t投資涉及風險。過往業績並非未來表現的指標。每個投資選項均面臨市場波動及所有投資固有 的風險。投資選項的名義單位價格以及投資於該等投資選項產生的收益（如有）可升可跌。投 資回報概不保證。",
+        "cn": "10. Investment  involves  risks.  Past  performance  should  not  be  taken  as  an  indication  of  future performance.  Each  Investment  Choice  is  subject  to  market  fluctuations  and  risks  inherent  in all  investments.  The  notional  Unit  Prices  of  Investment  Choices  and  the  income  accrued  from investing in such Investment Choices (if any) may go down as well as up. Investment returns are not guaranteed.",
+        "score": 0.907
+    },
+    {
+        "en": "11.\t\t若待分配單位的投資選項以不同於您的投連壽險保單基本貨幣的貨幣計值，我們將會以您的投 連壽險保單基本貨幣繳付的保費，兌換為該投資選項的計值貨幣，以進行分配，兌換匯率由我 們以誠信並以商業上合理的方式，並不時參考現行市場匯率釐定。請注意，這些貨幣兌換將面 臨匯率風險。",
+        "cn": "the  proceeds  denominated  in  the  base  currency into  the  denominated  currency  of  the  alternative Investment Choice in order to determine the number of Units of the alternative Investment Choice to be allocated  to  your  Account.  The  exchange  rates used  are  determined  by  us  in  good  faith  and  a commercially  reasonable  manner  with  reference  to the  prevailing  market  exchange  rates  from  time  to time.  Please  note  that  these  currency  conversions will be subject to exchange rate risks.",
+        "score": 0.811
+    },
+    {
+        "en": "12.\t\t請注意，相關基金可能單獨收取管理費、業績表現費、買賣差價、轉換費及/或其他經常性費 用。該等費用將從相關基金單位價格中扣除並反映。更多詳情請參閱相關基金的銷售文件。",
+        "cn": "12. You should note that the Underlying Funds may have separate charges for management fees, performance fees, bid-offer spreads, switching fees and/or other recurring fees. Such charges will be deducted from and reflected in the Underlying Fund Unit Price. For details, please refer to the offering documents of the Underlying Funds.",
+        "score": 0.842
+    },
+    {
+        "en": "14.\t\t您應仔細閱讀本計劃的銷售文件（包括產品小冊子、本投資選項小冊子和產品資料概要）及相 關基金的銷售文件，該等文件可向中銀人壽索取，亦可從我們網站www.boclife.com.hk下載。",
+        "cn": "14. You should read the offering documents of the Plan (including the Product Brochure, this Investment Choice  Brochure  and  Product  Key  Facts  Statement)  and  the  Underlying  Funds  carefully,  which  are available from BOC Life upon request or downloadable from our website at www.boclife.com.hk.",
+        "score": 0.866
+    },
+    {
+        "en": "「投資選項」指在中銀人壽提供的本計劃下不時可供您選擇、且載列於本投資選項小冊子中 的一系列投資選項。它們僅可通過本計劃進行投資，而不可直接購買。",
+        "cn": "“Investment Choices” are a range of Investment Choices available for your selection under the Plan offered by BOC Life and are set out in this Investment Choice Brochure. They are available only via investment in the Plan and are not available for direct purchase.",
+        "score": 0.814
+    },
+    {
+        "en": "投資選項名稱",
+        "cn": "Name of Investment Choice",
+        "score": 0.891
+    },
+    {
+        "en": "投資選項 代號",
+        "cn": "Name of Investment Choice",
+        "score": 0.846
+    },
+    {
+        "en": "相應的相關基金 名稱",
+        "cn": "Name of corresponding Underlying Fund",
+        "score": 0.845
+    },
+    {
+        "en": "相應的相關基 金的管理公司/ 投資經理名稱",
+        "cn": "Name of management company / investment manager of corresponding Underlying Fund",
+        "score": 0.846
+    },
+    {
+        "en": "投資選項/ 相應的相關 基金的貨幣",
+        "cn": "Currency of Investment Choice / corresponding Underlying Fund",
+        "score": 0.865
+    },
+    {
+        "en": "施羅德環球基金 系列－環球目標回 報(A美元收息MF) (分派)*",
+        "cn": "Schroder International Selection Fund – Global Target Return (A USD Dis MF) (DIS)*",
+        "score": 0.817
+    },
+    {
+        "en": "施羅德亞洲高息 股債基金(A美元 累積)",
+        "cn": "Schroder International Selection Fund – Asian Bond Total Return",
+        "score": 0.817
+    },
+    {
+        "en": "施羅德亞洲高息股 債基金(A美元收 息)(分派)*",
+        "cn": "Schroder International Selection Fund – Asian Bond Total Return (ACC)",
+        "score": 0.813
+    },
+    {
+        "en": "施羅德環球基金系 列－環球目標回報",
+        "cn": "Schroder International Selection Fund – Global Target Return",
+        "score": 0.801
+    },
+    {
+        "en": "SCGTR 施羅德環球基金系 列－環球目標回報",
+        "cn": "Schroder International Selection Fund – Global Target Return",
+        "score": 0.83
+    },
+    {
+        "en": "BlackRock (Luxembourg) S.A.",
+        "cn": "BlackRock (Luxembourg) S.A.",
+        "score": 1.0
+    },
+    {
+        "en": "BlackRock (Luxembourg) S.A.",
+        "cn": "BlackRock (Luxembourg) S.A.",
+        "score": 1.0
+    },
+    {
+        "en": "BlackRock (Luxembourg) S.A.",
+        "cn": "BlackRock (Luxembourg) S.A.",
+        "score": 1.0
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "人民幣",
+        "cn": "TEHYD",
+        "score": 0.821
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "人民幣",
+        "cn": "TEHYD",
+        "score": 0.821
+    },
+    {
+        "en": "A (美元收息) MF",
+        "cn": "A USD Dis MF",
+        "score": 0.855
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "施羅德傘型基金 II－施羅德亞洲高 息股債基金",
+        "cn": "Schroder International Selection Fund – Asian Bond Total Return",
+        "score": 0.81
+    },
+    {
+        "en": "施羅德傘型基金 II－施羅德亞洲高 息股債基金",
+        "cn": "Schroder International Selection Fund – Asian Bond Total Return",
+        "score": 0.81
+    },
+    {
+        "en": "施羅德傘型基金 II－施羅德亞洲高 息股債基金",
+        "cn": "Schroder International Selection Fund – Asian Bond Total Return",
+        "score": 0.81
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "人民幣",
+        "cn": "TEHYD",
+        "score": 0.821
+    },
+    {
+        "en": "投資選項名稱",
+        "cn": "Name of Investment Choice",
+        "score": 0.891
+    },
+    {
+        "en": "投資選項 代號",
+        "cn": "Name of Investment Choice",
+        "score": 0.846
+    },
+    {
+        "en": "相應的相關基金 名稱",
+        "cn": "Name of corresponding Underlying Fund",
+        "score": 0.845
+    },
+    {
+        "en": "相應的相關基 金的管理公司/ 投資經理名稱",
+        "cn": "Name of management company / investment manager of corresponding Underlying Fund",
+        "score": 0.846
+    },
+    {
+        "en": "投資選項/ 相應的相關 基金的貨幣",
+        "cn": "Currency of Investment Choice / corresponding Underlying Fund",
+        "score": 0.865
+    },
+    {
+        "en": "多元資產－中國",
+        "cn": "Equity – China",
+        "score": 0.853
+    },
+    {
+        "en": "施羅德中國股債收 息基金(A人民幣對 沖收息)(分派)*",
+        "cn": "Schroder China Asset Income Fund (A RMB Hedged Dis) (DIS)*",
+        "score": 0.813
+    },
+    {
+        "en": "人民幣",
+        "cn": "TEHYD",
+        "score": 0.821
+    },
+    {
+        "en": "TEFID",
+        "cn": "TEFID",
+        "score": 1.0
+    },
+    {
+        "en": "富蘭克林鄧普頓 投資基金－富蘭克 林入息基金",
+        "cn": "Franklin Templeton Investment Funds – Franklin Income Fund",
+        "score": 0.825
+    },
+    {
+        "en": "Franklin Templeton International Services S.àr.l.",
+        "cn": "Franklin Templeton International Services S.à r.l.",
+        "score": 0.998
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "AM (美元) 收息",
+        "cn": "AM (USD) Dis.",
+        "score": 0.805
+    },
+    {
+        "en": "BlackRock (Luxembourg) S.A.",
+        "cn": "BlackRock (Luxembourg) S.A.",
+        "score": 1.0
+    },
+    {
+        "en": "BlackRock (Luxembourg) S.A.",
+        "cn": "BlackRock (Luxembourg) S.A.",
+        "score": 1.0
+    },
+    {
+        "en": "BlackRock (Luxembourg) S.A.",
+        "cn": "BlackRock (Luxembourg) S.A.",
+        "score": 1.0
+    },
+    {
+        "en": "BlackRock (Luxembourg) S.A.",
+        "cn": "BlackRock (Luxembourg) S.A.",
+        "score": 1.0
+    },
+    {
+        "en": "人民幣",
+        "cn": "TEHYD",
+        "score": 0.821
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "BlackRock (Luxembourg) S.A.",
+        "cn": "BlackRock (Luxembourg) S.A.",
+        "score": 1.0
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "人民幣",
+        "cn": "TEHYD",
+        "score": 0.821
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "投資選項名稱",
+        "cn": "Name of Investment Choice",
+        "score": 0.891
+    },
+    {
+        "en": "投資選項 代號",
+        "cn": "Name of Investment Choice",
+        "score": 0.846
+    },
+    {
+        "en": "相應的相關基金 名稱",
+        "cn": "Name of corresponding Underlying Fund",
+        "score": 0.845
+    },
+    {
+        "en": "相應的相關基 金的管理公司/ 投資經理名稱",
+        "cn": "Name of management company / investment manager of corresponding Underlying Fund",
+        "score": 0.846
+    },
+    {
+        "en": "投資選項/ 相應的相關 基金的貨幣",
+        "cn": "Currency of Investment Choice / corresponding Underlying Fund",
+        "score": 0.865
+    },
+    {
+        "en": "施羅德環球基金系 列－新興市場優勢 (累積)",
+        "cn": "Schroder International Selection Fund – Global Emerging Market Opportunities",
+        "score": 0.827
+    },
+    {
+        "en": "SCGEM 施羅德環球基金系 列－新興市場優勢",
+        "cn": "Schroder International Selection Fund – Global Emerging Market Opportunities",
+        "score": 0.806
+    },
+    {
+        "en": "股票－亞洲（日本除外）",
+        "cn": "Equity – Asia (ex Japan)",
+        "score": 0.822
+    },
+    {
+        "en": "施羅德環球基金系 列－新興亞洲 (累積)",
+        "cn": "Schroder International Selection Fund – Emerging Asia",
+        "score": 0.862
+    },
+    {
+        "en": "施羅德環球基金系 列－新興亞洲",
+        "cn": "Schroder International Selection Fund – Emerging Asia",
+        "score": 0.864
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "股票－中國",
+        "cn": "Equity – China",
+        "score": 0.858
+    },
+    {
+        "en": "首域盈信中國增長 基金",
+        "cn": "FSSA China Growth Fund",
+        "score": 0.873
+    },
+    {
+        "en": "首域盈信香港增長 基金(I美元累積)",
+        "cn": "FSSA Hong Kong Growth Fund (I USD Acc)",
+        "score": 0.846
+    },
+    {
+        "en": "施羅德環球基金系 列－香港股票(A美 元累積)",
+        "cn": "Schroder International Selection Fund – Hong Kong Equity (A USD Acc)",
+        "score": 0.829
+    },
+    {
+        "en": "施羅德環球基金系 列－香港股票",
+        "cn": "Schroder International Selection Fund – Hong Kong Equity",
+        "score": 0.822
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "投資選項名稱",
+        "cn": "Name of Investment Choice",
+        "score": 0.891
+    },
+    {
+        "en": "投資選項 代號",
+        "cn": "Name of Investment Choice",
+        "score": 0.846
+    },
+    {
+        "en": "相應的相關基金 名稱",
+        "cn": "Name of corresponding Underlying Fund",
+        "score": 0.845
+    },
+    {
+        "en": "相應的相關基 金的管理公司/ 投資經理名稱",
+        "cn": "Name of management company / investment manager of corresponding Underlying Fund",
+        "score": 0.846
+    },
+    {
+        "en": "投資選項/ 相應的相關 基金的貨幣",
+        "cn": "Currency of Investment Choice / corresponding Underlying Fund",
+        "score": 0.865
+    },
+    {
+        "en": "股票－日本",
+        "cn": "Equity – Japan",
+        "score": 0.858
+    },
+    {
+        "en": "貝萊德全球基金－ 日本靈活股票基金 (A2美元)",
+        "cn": "BlackRock Global Funds – Japan Flexible Equity Fund (A2 USD)",
+        "score": 0.82
+    },
+    {
+        "en": "貝萊德全球基金－ 日本靈活股票基金",
+        "cn": "BlackRock Global Funds – Japan Flexible Equity Fund (A2 USD)",
+        "score": 0.843
+    },
+    {
+        "en": "BlackRock (Luxembourg) S.A.",
+        "cn": "BlackRock (Luxembourg) S.A.",
+        "score": 1.0
+    },
+    {
+        "en": "A (累算)美元",
+        "cn": "A USD Dis",
+        "score": 0.808
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "A (累算)美元",
+        "cn": "A USD Dis",
+        "score": 0.808
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "BlackRock (Luxembourg) S.A.",
+        "cn": "BlackRock (Luxembourg) S.A.",
+        "score": 1.0
+    },
+    {
+        "en": "Franklin Templeton International Services S.àr.l.",
+        "cn": "Franklin Templeton International Services S.à r.l.",
+        "score": 0.998
+    },
+    {
+        "en": "BlackRock (Luxembourg) S.A.",
+        "cn": "BlackRock (Luxembourg) S.A.",
+        "score": 1.0
+    },
+    {
+        "en": "Franklin Templeton International Services S.àr.l.",
+        "cn": "Franklin Templeton International Services S.à r.l.",
+        "score": 0.998
+    },
+    {
+        "en": "貝萊德全球基金－ 可持續能源基金 (A2美元)",
+        "cn": "BlackRock Global Funds – Sustainable Energy Fund (A2 USD)",
+        "score": 0.815
+    },
+    {
+        "en": "貝萊德全球基金－ 可持續能源基金",
+        "cn": "BlackRock Global Funds – Sustainable Energy Fund (A2 USD)",
+        "score": 0.815
+    },
+    {
+        "en": "富蘭克林科技基金 (A\t累積)",
+        "cn": "Franklin Technology Fund (A Acc)",
+        "score": 0.811
+    },
+    {
+        "en": "TEFTA",
+        "cn": "TEFTA",
+        "score": 1.0
+    },
+    {
+        "en": "固定收益－環球",
+        "cn": "Fixed Income – Global Emerging",
+        "score": 0.803
+    },
+    {
+        "en": "施羅德環球基金系 列－美元債券(A美 元累積)",
+        "cn": "Schroder International Selection Fund – US Dollar Bond",
+        "score": 0.852
+    },
+    {
+        "en": "施羅德環球基金系 列－美元債券",
+        "cn": "Schroder International Selection Fund – US Dollar Bond",
+        "score": 0.86
+    },
+    {
+        "en": "FFPWE 法巴基金－法巴新",
+        "cn": "FFPWE",
+        "score": 0.812
+    },
+    {
+        "en": "投資選項名稱",
+        "cn": "Name of Investment Choice",
+        "score": 0.891
+    },
+    {
+        "en": "投資選項 代號",
+        "cn": "Name of Investment Choice",
+        "score": 0.846
+    },
+    {
+        "en": "相應的相關基金 名稱",
+        "cn": "Name of corresponding Underlying Fund",
+        "score": 0.845
+    },
+    {
+        "en": "相應的相關基 金的管理公司/ 投資經理名稱",
+        "cn": "Name of management company / investment manager of corresponding Underlying Fund",
+        "score": 0.846
+    },
+    {
+        "en": "投資選項/ 相應的相關 基金的貨幣",
+        "cn": "Currency of Investment Choice / corresponding Underlying Fund",
+        "score": 0.865
+    },
+    {
+        "en": "固定收益－亞洲（日本除外）",
+        "cn": "Fixed Income – Asia (ex Japan)",
+        "score": 0.889
+    },
+    {
+        "en": "施羅德環球基金系 列－亞洲債券 (累積)",
+        "cn": "Schroder International Selection Fund – Asian Bond Total Return (ACC)",
+        "score": 0.858
+    },
+    {
+        "en": "固定收益－中國",
+        "cn": "Fixed Income – China",
+        "score": 0.886
+    },
+    {
+        "en": "固定收益－美國",
+        "cn": "Fixed Income – US",
+        "score": 0.814
+    },
+    {
+        "en": "施羅德環球基金系 列－亞洲債券",
+        "cn": "Schroder International Selection Fund – Asian Bond Total Return (ACC)",
+        "score": 0.845
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "BlackRock (Luxembourg) S.A.",
+        "cn": "BlackRock (Luxembourg) S.A.",
+        "score": 1.0
+    },
+    {
+        "en": "人民幣",
+        "cn": "TEHYD",
+        "score": 0.821
+    },
+    {
+        "en": "TEHYD",
+        "cn": "TEHYD",
+        "score": 1.0
+    },
+    {
+        "en": "Franklin Templeton International Services S.àr.l.",
+        "cn": "Franklin Templeton International Services S.à r.l.",
+        "score": 0.998
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "中銀保誠MSCI\tAC 亞太(日本除外) 指數基金(R美元)",
+        "cn": "BOC – Prudential MSCI AC Asia Pacific ex Japan Index Fund (R USD)",
+        "score": 0.863
+    },
+    {
+        "en": "中銀香港保守增長 基金(A美元)",
+        "cn": "FSSA Hong Kong Growth Fund (I USD Acc)",
+        "score": 0.84
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "A －美元單位",
+        "cn": "A USD Dis",
+        "score": 0.845
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "A －美元單位",
+        "cn": "A USD Dis",
+        "score": 0.845
+    },
+    {
+        "en": "美元",
+        "cn": "USD",
+        "score": 0.817
+    },
+    {
+        "en": "有關投資於投資選項（現金分派）的風險，詳細內容請參閱「重要資訊」一節。",
+        "cn": "For the risk in relation to investing in Investment Choice (Cash Distribution), please refer to “Important Information” section for details.",
+        "score": 0.876
+    },
+    {
+        "en": "使用的匯率是基於我們以誠信並以商業上合理的方式並不時參考現行市場匯率釐定。貨幣波 動或虧損的任何風險將由您承擔。與支付方式相關的任何收費（如銀行收費）將由您承擔， 並從應付股息款項中扣除。",
+        "cn": "The exchange rates used are based on the prevailing market-based exchange rate as determined by us from time to time in good faith and a commercially reasonable manner. Any risk of currency fluctuations or loss shall be borne by you. Any charge relating to payout means (e.g. bank charge) will be borne by you and deducted from the dividend amount payable.",
+        "score": 0.882
+    },
+    {
+        "en": "延遲和拒絕交易及估值 在超出我們控制的特殊情況下，我們擁有全權酌情決定權暫停、限制、拒絕或延遲任何投資 選項中的單位之分配、註銷或估值。該等特殊情況包括但不限於下列情況：",
+        "cn": "We have the sole discretion to suspend, limit, refuse or defer the allocation, cancellation or valuation of the Units in any Investment Choices under exceptional circumstances beyond our control. Such exceptional circumstances include, without limitation, the following circumstances:",
+        "score": 0.824
+    },
+    {
+        "en": "1.\t 當任何相關基金的認購或贖回被暫停、限制或延遲時；",
+        "cn": "2.  when the valuation or dealings in any Underlying Fund have been suspended or restricted;",
+        "score": 0.861
+    },
+    {
+        "en": "2.\t 當任何相關基金的估值或交易被暫定或限制時；",
+        "cn": "2.  when the valuation or dealings in any Underlying Fund have been suspended or restricted;",
+        "score": 0.914
+    },
+    {
+        "en": "3.\t 當有關的相關基金的資產報價、買賣或交易所在的任何主要證券交易所或市場被關閉",
+        "cn": "3.  when any of the principal stock exchanges or markets on which the assets of the relevant Underlying Fund are quoted, traded or dealt is closed (other than during the usual closing hours or days) or has restricted dealings;",
+        "score": 0.882
+    },
+    {
+        "en": "7.\t 當存在超出我們控制的任何其他情況，導致相關投資選項中單位的分配、註銷或估值不 可能或不可行或不符合您的權益時，包括但不限於發生任何敵對事件、戰爭或災難、我 們的正常業務被中斷、疫情、地方性流行病、或通訊方式中斷。",
+        "cn": "7.  when  there  are  any  other  circumstances  beyond  our  control  making  the  allocation,  cancellation  or valuation  of  the  Units  in  the  relevant  Investment  Choice  impossible  or  impracticable  or  not  in  your interest,  including  but  not  limited  to,  occurrence  of  any  hostility,  war  or  disaster,  interruption  of  our normal business, pandemic, epidemic, or breakdown of means of communication.",
+        "score": 0.858
+    },
+    {
+        "en": "投資選項/相關基金之變更 在獲得相關監管批准的前提下，如我們決定終止您持有的某個投資選項或將您持有的某個投 資選項與另一投資選項合併，我們將在該變更之前至少一（1）個月（或符合相關監管規定 的更短通知期）通過發出事先書面通知以通知您。如您所選擇的投資選項相應的相關基金因 相應的相關基金的基金經理作出的決定或任何超出我們控制的情況（如對相應的相關基金進 行交易變得不現實或違反任何法律或法規）而被終止或與其他相關基金合併，從而變得無法 交易，我們將在擬定投資選項終止或合併的生效日期前至少一（1）個月（或符合相關監管 規定的更短通知期）通過發出書面通知告知您我們的建議安排。",
+        "cn": "We will inform you if we decide to terminate or merge an Investment Choice held by you with another by giving prior written notice of at least one (1) month (or such shorter period of notice in compliance with the  relevant  regulatory  requirements)  prior  to  such  change  subject  to  relevant  regulatory  approval.  If  the Underlying Fund(s) corresponding to Investment Choice(s) you selected is/are terminated or merged with other(s) and becomes unavailable for trading as a result of decisions taken by the fund manager(s) of the corresponding Underlying Fund(s), or any circumstances beyond our control such as the Transaction of the corresponding Underlying Fund(s) becoming impracticable or in breach of any laws or regulations, we will inform you of our proposed arrangement with a written notice at least one (1) month (or such shorter period of notice in compliance with the relevant regulatory requirements) prior to the effective date of the proposed termination or merger of Investment Choice(s).",
+        "score": 0.866
+    },
+    {
+        "en": "若您未在相關書面通知上列明的期限內向我們作出指示，我們有絕對酌情權及不作另行通知 下根據相關書面通知上所述，將受影響之投資選項的單位轉換至我們為您決定的本計劃下的 其他投資選項。",
+        "cn": "If you do not instruct us within the period stated in the written notice, we have the right in our absolute discretion and without further notice to switch Units from the affected Investment Choice(s) to other Investment Choice(s) under the Plan which we will determine on your behalf as indicated in the written notice.",
+        "score": 0.857
+    },
+    {
+        "en": "待分配的其他投資選項的單位數量將根據書面通知上所述日期適用的最新可得單位價格而計 算。我們不會收取轉換費用。",
+        "cn": "The number of Units to be allocated to other Investment Choice(s) will be calculated based on the latest available Unit Price prevailing on the date as stated in the written notice. No switching fee will be charged.",
+        "score": 0.83
+    },
+    {
+        "en": "稅項 請根據您自身的稅務情況，就稅務事宜諮詢獨立專業意見。",
+        "cn": "Please seek independent professional advice on tax matters regarding your own tax circumstances.",
+        "score": 0.9
+    },
+    {
+        "en": "如有任何查詢及投訴，請聯絡您的專業理財顧問、致電中銀人壽客服熱線2860\t 0688或前往 中銀人壽客服中心，請前往我們的網站www.boclife.com.hk查詢其地址。",
+        "cn": "For  any  enquiries  and  complaints,  please  contact  your  financial  consultant,  call  the  BOC  Life  Customer Hotline at 2860 0688 or visit BOC Life Customer Service Centres whereas their addresses are available from our website at www.boclife.com.hk.",
+        "score": 0.8
+    }
+]
